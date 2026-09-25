@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/20-iterators-higher-order-programming/Cargo.toml">
+      <package file="$PROJECT_DIR$/20-iterators-higher-order-programming">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8311260-b56b-40e1-98ea-56f336eb7777" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;670710646&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/soonklang/rust-tutorial-2569.git&quot;,
+    &quot;accountId&quot;: &quot;9d71f763-1046-48dc-bff3-72c7c9b61366&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ALVq2W6L" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.491177848603883E-211" />
+      <entry key="MS500" value="7.573226514116794E-43" />
+      <entry key="S2" value="2.950419146934259E-11" />
+      <entry key="S5" value="6.323678906376989E-5" />
+      <entry key="S10" value="0.009450108173493605" />
+      <entry key="S30" value="0.3740266205878182" />
+      <entry key="S60" value="1.0329871836300977" />
+      <entry key="M2" value="1.7490723501988437" />
+      <entry key="M5" value="2.4139077930057673" />
+      <entry key="M10" value="2.6903478641821996" />
+      <entry key="M15" value="2.789679947184615" />
+      <entry key="M30" value="2.8928460538431615" />
+      <entry key="H1" value="2.9459146877345277" />
+      <entry key="H2" value="2.9728290046648285" />
+      <entry key="H4" value="2.986382259334585" />
+      <entry key="D1" value="2.997725884868948" />
+      <entry key="W1" value="2.9996750162329704" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0014100871050024375" />
+      <entry key="MS500" value="0.2690600311959493" />
+      <entry key="S2" value="0.7202152236005964" />
+      <entry key="S5" value="0.8770197456370544" />
+      <entry key="S10" value="0.9447035113314448" />
+      <entry key="S30" value="1.3330639336960306" />
+      <entry key="S60" value="1.9942596247486182" />
+      <entry key="M2" value="2.719608569015111" />
+      <entry key="M5" value="3.3983395089915067" />
+      <entry key="M10" value="3.681774398556815" />
+      <entry key="M15" value="3.7837750024054166" />
+      <entry key="M30" value="3.8897952221366485" />
+      <entry key="H1" value="3.9443639633831697" />
+      <entry key="H2" value="3.972047223437677" />
+      <entry key="H4" value="3.985989752333937" />
+      <entry key="D1" value="3.9976602415444202" />
+      <entry key="W1" value="3.9996656330799603" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JoXgyCQ11py0xwS46LO9jOX4Ar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Cargo.Run.executor": "Run",
+    "Cargo.Test.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Group__20",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/catme/Desktop/Project/rust-tutorial-2569",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\catme\Desktop\Project\rust-tutorial-2569\20-iterators-higher-order-programming\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cargo.Run">
+    <list>
+      <item itemvalue="Cargo.Run" />
+      <item itemvalue="Cargo.Test" />
+    </list>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8311260-b56b-40e1-98ea-56f336eb7777" name="Changes" comment="" />
+      <created>1790328509969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790328509969</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
