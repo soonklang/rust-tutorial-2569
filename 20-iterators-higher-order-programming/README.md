@@ -12,7 +12,7 @@
 | # | Name | Student ID | GitHub Username | Main Responsibility |
 |---|---|---|---|---|
 | 1 | นายณัฐชนน รักวงศ์ | 670710646 | `@670710646` | Concept + Short Code Illustration (สรุปแนวคิดหลัก + โค้ดตัวอย่างสั้น) |
-| 2 | นางสาวณัฐฐาพร เสตะวีระ | 670710647 | `@[กรอก GitHub username]` | Detailed Code + Live Demo (โค้ดเชิงลึก + สาธิตสด) |
+| 2 | นางสาวณัฐฐาพร เสตะวีระ | 670710647 | `@670710647` | Detailed Code + Live Demo (โค้ดเชิงลึก + สาธิตสด) |
 | 3 | นายณัฐดนัย ศรีไวย | 670710648 | `@[กรอก GitHub username]` | Rust vs Other Language + PPL Analysis (เปรียบเทียบภาษา + วิเคราะห์เชิง PPL) |
 | 4 | นายพรรสวกร สมใจ | 670710651 | `@[กรอก GitHub username]` | Exercises + Common Mistakes + Challenge (แบบฝึกหัด + ข้อผิดพลาดที่พบบ่อย + คำถามท้าทาย) |
 
