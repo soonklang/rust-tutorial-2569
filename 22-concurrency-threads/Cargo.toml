@@ -1,0 +1,25 @@
+[package]
+name = "concurrency_tutorial"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+[[bin]]
+name = "01_thread_basics"
+path = "src/bin/01_thread_basics.rs"
+
+[[bin]]
+name = "02_message_passing"
+path = "src/bin/02_message_passing.rs"
+
+[[bin]]
+name = "03_shared_state"
+path = "src/bin/03_shared_state.rs"
+
+[[bin]]
+name = "04_common_mistakes"
+path = "src/bin/04_common_mistakes.rs"
+
+[[bin]]
+name = "05_exercises"
+path = "src/bin/05_exercises.rs"
