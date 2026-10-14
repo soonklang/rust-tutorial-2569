@@ -13,10 +13,10 @@ fn main() {
     println!("after: {:?}", num);
 
     // let s1 = &mut num[..2];
-    // let s2 = &mut num[1..];   // error
+    // let s2 = &mut num[3..];
 
     // transform_even_odd(s1);
-    // transform_even_odd(s2);
+    // transform_even_odd(s2); // error
 
     let (left, right) = num.split_at_mut(3);
     // println!("numbers : {:?}", num); // error
