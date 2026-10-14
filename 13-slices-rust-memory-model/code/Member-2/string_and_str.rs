@@ -15,10 +15,10 @@ pub fn first_word(s: &str) -> &str { //(s: &String) -> usize
 fn main() {
     let mut string = String::from("Silpakorn University");
     let word = first_word(&string);
+    println!("first word : {}", word);
     
     string.clear();
 
-    println!("first word : {}", word);
     // println!("{}", &string[0..word]); // panic
 
     let th = String::from("รองเท้าเนรคุณ");
