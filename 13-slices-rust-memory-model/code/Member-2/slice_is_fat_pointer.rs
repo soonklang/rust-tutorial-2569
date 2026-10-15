@@ -11,7 +11,7 @@ fn show_fat_pointer<T: std::fmt::Debug>(data: &[T]) {
     println!("{:?}", s1);
 }
 
-pub main() {
+fn main() {
     let arr = [1, 2, 3, 4, 5, 6];
     let vec = vec![1, 2, 3, 4, 5, 6];
 
