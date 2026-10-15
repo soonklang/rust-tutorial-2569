@@ -1,26 +1,28 @@
-pub fn first_word(s: &String) -> usize {
-    let bytes = s.as_bytes();
-    for (i, &item) in bytes.iter().enumerate() {
-        if item == b' ' {
-            return i;}}
-    s.len()}
-
-// pub fn first_word(s: &str) -> &str { //(s: &String) -> usize
+// pub fn first_word(s: &String) -> &str {
 //     let bytes = s.as_bytes();
 //     for (i, &item) in bytes.iter().enumerate() {
 //         if item == b' ' {
-//             return &s[0..i];}} // return i;
+//             return &s[0..i];}}
 //     &s[..]}
 
+pub fn first_word(s: &str) -> &str {
+    let bytes = s.as_bytes();
+    for (i, &item) in bytes.iter().enumerate() {
+        if item == b' ' {
+            return &s[0..i];}}
+    &s[..]}
+
 fn main() {
-    let mut string = String::from("Silpakorn University");
-    let word = first_word(&string);
+    let string = String::from("Silpakorn University");
+    let literal = "Silpakorn University";
+    let slice = &string[..13];
+
+    // string.clear();
+
+    println!("first word String: {}", first_word(&string));
+    println!("first word literal: {}", first_word(&literal));
+    println!("first word slice: {}", first_word(&slice));
     
-    string.clear();
-
-    println!("first word : {}", word);
-    // println!("{}", &string[0..word]); // panic
-
     let th = String::from("รองเท้าเนรคุณ");
         println!("---------- {} ----------", th);
     println!("len : {} bytes", th.len());
