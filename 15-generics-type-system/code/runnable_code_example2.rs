@@ -1,7 +1,6 @@
 use std::any::type_name;
 use std::mem::size_of;
 
-// Generic Function สำหรับตรวจสอบตำแหน่งโค้ดในหน่วยความจำ
 fn inspect_execution<T: std::fmt::Display>(val: T) {
     println!(
         "Type: {:<5} | Value: {:<5} | Function Address: {:p}",
@@ -11,7 +10,6 @@ fn inspect_execution<T: std::fmt::Display>(val: T) {
     );
 }
 
-// Generic Struct เพื่อตรวจสอบขนาดหน่วยความจำจริง
 struct Storage<T> {
     data: T,
 }
@@ -29,11 +27,8 @@ impl<T> Storage<T> {
 
 fn main() {
     println!("=== 1. Function Pointer Monomorphization ===");
-    // เรียกใช้ Type เดียวกันซ้ำ (i32)
     inspect_execution(100_i32);
     inspect_execution(200_i32);
-
-    // เรียกใช้ Type อื่นๆ (f64 และ bool)
     inspect_execution(3.14_f64);
     inspect_execution(true);
 
